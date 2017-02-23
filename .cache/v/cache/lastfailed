@@ -1,0 +1,4 @@
+{
+  "pyroanalytics/tests.py::FunctionalTests::test_root": true, 
+  "pyroanalytics/tests.py::ViewTests::test_my_view": true
+}
